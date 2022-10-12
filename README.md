@@ -63,7 +63,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=chambersh1129&show_icons=true&line_height=27&count_private=true&theme=blue-green" alt="Hunter's GitHub Stats" />
     </a>
-    <a href="https://git.io/streak-stats">
+    <!-- <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=chambersh1129&theme=blue-green" />
-    </a>
+    </a> -->
 </div>
